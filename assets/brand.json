@@ -1,0 +1,16 @@
+{
+  "key": "mrkt-autobuy",
+  "title": "MRKT Autobuy",
+  "eyebrow": "Telegram Gifts · MRKT",
+  "tagline": "Gift sniper for MRKT that prices every deal net of fees and proves itself in practice first",
+  "chips": [
+    "Dry-run by default",
+    "Python 3.11+",
+    "aiogram 3"
+  ],
+  "accent": [
+    "#16C784",
+    "#B4F04A"
+  ],
+  "icon": "tag"
+}

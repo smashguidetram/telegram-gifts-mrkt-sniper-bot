@@ -1,0 +1,102 @@
+{
+  "key": "mrkt-autobuy-score",
+  "accent": [
+    "#16C784",
+    "#B4F04A"
+  ],
+  "bot": "MRKT Autobuy",
+  "initials": "MA",
+  "time": "14:40",
+  "subtitle": "/scoreboard: the practice proof before going live",
+  "lines": [
+    [
+      {
+        "t": "Practice scoreboard, last 7 days (net of fees):",
+        "s": "title"
+      }
+    ],
+    "",
+    [
+      {
+        "t": "Would have bought:",
+        "s": "muted"
+      },
+      {
+        "t": "10 gifts for 12.30 TON all-in",
+        "s": "body",
+        "x": 240
+      }
+    ],
+    [
+      {
+        "t": "Worth now if resold at floor:",
+        "s": "muted"
+      },
+      {
+        "t": "13.40 TON net",
+        "s": "body",
+        "x": 240
+      }
+    ],
+    [
+      {
+        "t": "Would-be P&L:",
+        "s": "muted"
+      },
+      {
+        "t": "+1.1 TON",
+        "s": "good",
+        "x": 240
+      }
+    ],
+    [
+      {
+        "t": "(unrealized +1.1 TON, realized +0.0 TON)",
+        "s": "muted",
+        "x": 240
+      }
+    ],
+    [
+      {
+        "t": "Races probably lost:",
+        "s": "muted"
+      },
+      {
+        "t": "0 of 2 vanished within 2 min",
+        "s": "body",
+        "x": 240
+      }
+    ],
+    "",
+    [
+      {
+        "t": "Rule #1: ",
+        "s": "body"
+      },
+      {
+        "t": "ready",
+        "s": "good"
+      },
+      {
+        "t": " · Rule #2: ",
+        "s": "body"
+      },
+      {
+        "t": "losing",
+        "s": "bad"
+      },
+      {
+        "t": " · Rule #3: not enough data · Rule #4: not enough data · Rule #5: not enough data · Rule #6: not enough data → go-live needs /dry off confirm",
+        "s": "body"
+      }
+    ],
+    "",
+    [
+      {
+        "t": "Practice assumes you won every race for the listing; real results are worse.",
+        "s": "quote"
+      }
+    ]
+  ],
+  "buttons": []
+}

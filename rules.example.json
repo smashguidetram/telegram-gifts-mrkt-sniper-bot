@@ -1,0 +1,29 @@
+[
+  {
+    "collection": "Lunar Snake",
+    "max_price_ton": 2.5,
+    "min_discount_pct": 20,
+    "min_profit_ton": 0.2,
+    "mode": "confirm"
+  },
+  {
+    "collection": "Desk Calendar",
+    "model": "Classic",
+    "max_price_ton": 1.5,
+    "min_discount_pct": 15,
+    "min_confidence": "high",
+    "mode": "auto"
+  },
+  {
+    "collection": "Plush Pepe",
+    "backdrop": "Onyx Black",
+    "symbol": null,
+    "max_price_ton": 9,
+    "min_discount_pct": 30,
+    "min_profit_pct": 10,
+    "allow_locked_days": 0,
+    "mode": "watch",
+    "exit": "best",
+    "enabled": false
+  }
+]
