@@ -1,0 +1,24 @@
+# Secrets (keep the template)
+.env
+.env.*
+!.env.example
+
+# Runtime data: database, Telegram session, event log, floor snapshots
+data/
+sessions/
+*.session
+*.session-journal
+*.db
+*.db-*
+*.sqlite
+*.log
+
+# Local strategy, see rules.example.json
+rules.json
+
+# Python and tooling
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
